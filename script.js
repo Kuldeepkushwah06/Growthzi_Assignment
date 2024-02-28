@@ -1,4 +1,3 @@
-// script.js
 
 function updateQuantity(id, change) {
     var quantityElement = document.getElementById(id);
